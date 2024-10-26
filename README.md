@@ -1,13 +1,12 @@
-## Hi there 👋
-
-- 🔭 I’m currently working on [The Proven Club](https://theproven.club)
-- 🌱 I’m currently learning Web development and designing
-- 👯 I’m looking to collaborate on impact driven project
-- 📫 How to reach me: [@sutharrahul](https://www.linkedin.com/in/suthar-rahul/)
 
 <h1 align="center">Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35">, I am Rahul </h1>
 
-<h3 align="center"> 💻 Full Stack Developer | 📖 Tech enthusiast</h3>
+<h3 align="center"> 💻 Frontend Developer | 📖 Tech enthusiast</h3>
+
+- 🔭 I’m currently contributing to [The Proven Club](https://theproven.club).
+- 🌱 I’m currently learning and developing Web applications.
+- 👯 I’m looking to collaborate on impact driven project.
+- 📫 How to reach me: [@sutharrahul](https://www.linkedin.com/in/suthar-rahul)
 
 ![](https://raw.githubusercontent.com/metoop/shravan20/main/assets/header.png)
 <br>
@@ -60,7 +59,7 @@ const pradeep = Developer(
   )),
   (goals = listOf(
     Goal(
-      'build a highly performant and reliable system that millions can use.',
+      'build a highly performant and reliable frontend that millions can use.',
     ),
   )),
   (hobbies = listOf(
