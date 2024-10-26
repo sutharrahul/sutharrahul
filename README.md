@@ -46,7 +46,7 @@
 ### A little more about me...
 
 ```js
-const pradeep = Developer(
+const rahul = Developer(
   (codes = listOf(
     'Typescript',
     'JavaScript',
