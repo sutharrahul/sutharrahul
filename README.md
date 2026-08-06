@@ -1,18 +1,17 @@
 
 <h1 align="center">Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35">, I am Rahul </h1>
 
-<h3 align="center"> 💻 Frontend Developer | 📖 Tech enthusiast</h3>
+<h3 align="center"> 💻 Software Developer | 📖 Tech enthusiast</h3>
 
-- 🔭 I’m currently contributing to [The Proven Club](https://theproven.club).
 - 🌱 I’m currently learning and developing Web applications.
-- 👯 I’m looking to collaborate on impact driven project.
-- 📫 How to reach me: [@sutharrahul](https://www.linkedin.com/in/suthar-rahul)
+- 👯 I’m looking to collaborate on an impact-driven project.
+- 📫 How to reach me: [@suthar-rahul](https://www.linkedin.com/in/suthar-rahul)
 
 ![](https://raw.githubusercontent.com/metoop/shravan20/main/assets/header.png)
 <br>
 
 <p align="center">
-  <a title="Portfolio" href="https://sutharrahul.github.io/">
+  <a title="Portfolio" href="https://rahuls.dev/">
     <img src="https://cdn0.iconfinder.com/data/icons/web-development-79/32/development_globe_sphere-64.png" width="50" height="50" />
   </a>
   &nbsp;
@@ -34,12 +33,6 @@
   
   <a title="Email" href="mailto:sutharrahul119@gmail.com">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Gmail_envelope_letter_email-64.png" width="50" height="50" />
-  </a>
-  &nbsp;
-  &nbsp;
-  
-  <a title="Twitter" href="https://twitter.com/rahulsuthar_25">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Twitter_bird-64.png" width="50" height="50" />
   </a>
 </p>
 
